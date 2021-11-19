@@ -3,9 +3,8 @@
 
 
 # Sobre o projeto
-backend-challenge é um projeto de uma API Rest criada com os dados de nome, nome do usuário, data de aniversário, endereço, número de endereço, número de telefone, 
-descrição e data de criação do usuário. A API Rest foi feita com NodeJs, express, bcript para encripitação e o banco de dados MongoDB atlas(deixo abaixo a senha por algum tempo para acesso)
-Toda a API foi testada no Postman. 
+backend-challenge é uma API Rest criada com os dados de nome, nome do usuário, data de aniversário, endereço, número de endereço, número de telefone, 
+descrição e data de criação do usuário. A API Rest foi feita com Express e MongoDB atlas(deixo abaixo a senha por algum tempo para acesso no MongoDB) onde teremos endpoints públicos e privados; os privados possuem token para serem acessados e o token é entregue através de login bem sucessido. Toda a API foi testada no Postman antes de terminá-la. 
  
 ## Back end
 - NodeJs
@@ -31,7 +30,7 @@ Toda a API foi testada no Postman.
 git clone https://github.com/lombaAnderson/
 
 # executar o projeto
-Não é necessário pois o nodemon automaticamente o executa iniciando nodemon app.js
+Não é necessário, pois o nodemon automaticamente o executa iniciando nodemon app.js
 
 ```
 
