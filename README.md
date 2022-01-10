@@ -18,7 +18,7 @@ descrição e data de criação do usuário. A API Rest foi feita com Express e 
 -Acesso ao Mongodb Atlas : 
 DB_USER=anderson
 DB_PASS=2nvzrfSGS4zqOG3g
-SECRET= DUJHASJKSAPFSAFCB78787997865D
+SECRET= DUJHASJKSAPFSAFCB78787997865d (embaralhei o segredo por motivo de segurança)
 
 
 # Como executar o projeto
