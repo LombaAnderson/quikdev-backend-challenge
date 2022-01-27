@@ -32,9 +32,6 @@ SECRET= DUJHASJKSAPFSAFCB78787997865d (embaralhei o segredo por motivo de segura
 # clonar repositório
 git clone https://github.com/lombaAnderson/
 
-# executar o projeto
-Não é necessário, pois o nodemon automaticamente o executa iniciando nodemon app.js
-
 ```
 
 # Autor
